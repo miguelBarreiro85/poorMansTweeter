@@ -1,0 +1,2 @@
+docker run -dit --name django -v "$(pwd)"/vol:/usr/src/app -p 8080:8080 django
+
