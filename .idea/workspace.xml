@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe49b408-4d46-4855-9c51-6d0cf76c782d" name="Default Changelist" comment="" />
+    <list default="true" id="fe49b408-4d46-4855-9c51-6d0cf76c782d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/installDjango" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startContainer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/mysite/routers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/migrations/0002_auto_20180930_2242.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/migrations/0003_remove_tweet_tweet_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/migrations/0004_tweet_tweet_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/templates/index.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vol/mysite/tweet/viewsets.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vol/mysite/tweet/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2028">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="387">
+              <caret line="95" column="44" lean-forward="true" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="44" />
               <folding>
                 <element signature="e#4491#4497#0" expanded="true" />
                 <element signature="e#6114#6121#1" expanded="true" />
@@ -183,6 +217,9 @@
       <find>sear</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -221,6 +258,7 @@
     <option name="width" value="1227" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -233,31 +271,6 @@
             <path>
               <item name="django" type="b2602c69:ProjectViewProjectNode" />
               <item name="django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="vol" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="vol" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="vol" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django" type="462c0819:PsiDirectoryNode" />
-              <item name="vol" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="tweet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,7 +317,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13927428" />
@@ -313,7 +325,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32901832" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
@@ -575,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vol/mysite/tweet/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2028">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="387">
+          <caret line="95" column="44" lean-forward="true" selection-start-line="95" selection-start-column="44" selection-end-line="95" selection-end-column="44" />
           <folding>
             <element signature="e#4491#4497#0" expanded="true" />
             <element signature="e#6114#6121#1" expanded="true" />
